@@ -1,0 +1,2 @@
+# djangoBlog
+educational purposes
